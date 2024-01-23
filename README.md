@@ -16,11 +16,11 @@
 
 ## A bit about me...
 - 😄 Pronouns: they/them
-- 🔭 I’m currently working on *trans*itioning from cybersecurity and into development.
-- 🌱 I’m currently practicing developing with Next.js, React, and TypeScript.
+- 🔭 I’m currently working on *trans*itioning from cybersecurity and into software development.
+- 🌱 I’m currently practicing developing with Next.js/React, and TypeScript.
 - 👯 I’m looking to collaborate on open-source projects that make peoples' lives better.
-- 🤔 I’m looking for help with career advice.
-- 💬 Ask me about my favorite video game.
+- 🤔 More specifically, **I want to build cool stuff with others.**
+- 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars!
 
 ## Tech Stack
