@@ -15,13 +15,13 @@
 </p>
 
 ## A bit about me...
-- 😄 Pronouns: they/them
+- 🏳️‍⚧️ Pronouns: they/them
 - 🔭 I’m currently working on *trans*itioning from cybersecurity and into software development.
-- 🌱 I’m currently practicing developing with Next.js/React, and TypeScript.
+- 🌱 I’m currently building _FreeStream_, a Streamlit Multi-Page Application with the intention to provide unfettered access to state of the art prompt engineering techniques without any technical knowledge required, plus your choice of chat model!
 - 👯 I’m looking to collaborate on open-source projects that make peoples' lives better.
-- 🤔 More specifically, **I want to build cool stuff with others.**
+- 🤔 More specifically, **I want to build cool stuff for others that automates the mundane.**
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
-- ⚡ Fun fact: I love Star Wars!
+- ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
 
 ## Tech Stack
 
