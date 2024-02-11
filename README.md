@@ -56,6 +56,16 @@
 
 ---
 
+## Notable Projects
+
+### FreeStream
+Description: Currently an RAG chatbot, soon to be MPA with added data visualization, task creation with structured output for daily planning, and image generation tooling.
+
+### Build-RAGAI
+Description: A library of Python components to leverage the LangChain, OpenAI, and Transformers Python libraries and build generative AI-powered applications. Most of the code is for continued learning, found in Jupyter notebooks alongside educational markdown blocks to help you understand what the code that you're executing actually does.
+
+---
+
 [![Daethyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=daethyra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daethyra&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
