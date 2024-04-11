@@ -15,10 +15,10 @@
 </p>
 
 ## A bit about me...
-- 🏳️‍⚧️ Pronouns: they/them
+- 🏳️‍⚧️ Pronouns: she/her
 - 🔭 I’m currently working on *trans*itioning from cybersecurity and into software development.
-- 🌱 I’m currently building _FreeStream_, a Streamlit Multi-Page Application with the intention to provide unfettered access to state of the art prompt engineering techniques without any technical knowledge required, plus your choice of chat model!
-- 👯 I’m looking to collaborate on open-source projects that make peoples' lives better.
+- 🌱 I’m currently building _FreeStream_, a Streamlit Multi-Page App with various Chatbots for many use-cases.
+- 👯 I love collaborating on open-source projects with a vision to make peoples' lives better.
 - 🤔 More specifically, **I want to build cool stuff for others that automates the mundane.**
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
@@ -59,10 +59,10 @@
 ## Notable Projects
 
 ### FreeStream
-Description: Currently an RAG chatbot, soon to be MPA with added data visualization, task creation with structured output for daily planning, and image generation tooling.
+Description: A web application where you can access Claude Opus and GPT-4 for free, making use of the different chatbot architectures I've set up. The first example is focused on retrieval augmented generation and requires you to upload files for the AI to generate answers from. The second chatbot, so far, is a general-purpose chatbot, and the benefit to using FreeStream is that there's no chat-length limits and you can "drop-in" your choice of large language model from foundational model providers OpenAI, Anthropic, and Google. 
 
 ### Build-RAGAI
-Description: A library of Python components to leverage the LangChain, OpenAI, and Transformers Python libraries and build generative AI-powered applications. Most of the code is for continued learning, found in Jupyter notebooks alongside educational markdown blocks to help you understand what the code that you're executing actually does.
+Description: A collection of Jupyter Notebooks and Python components to leverage LangChain, OpenAI, and Transformers for building generative AI applications, providing reusable code snippets, tutorials, and end-to-end examples. 
 
 ---
 
