@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Daethyra (pronounced: duh-thear-uh)
+  Hi there 👋 I'm Daethyra (pronounced: deh-thear-uh)
 </h1>
 
 <p align="center">
