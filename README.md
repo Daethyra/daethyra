@@ -8,11 +8,13 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=10000&size=14&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." />
   </a>
 </p>
+-->
 
 ## A bit about me...
 - 🏳️‍⚧️ Pronouns: she/her
@@ -34,11 +36,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FF6F61?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -52,17 +49,19 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure)
 
 ---
 
-## Notable Projects
+## Favorite Projects
 
-### FreeStream
-Description: A web application where you can access Claude Opus and GPT-4 for free, making use of the different chatbot architectures I've set up. The first example is focused on retrieval augmented generation and requires you to upload files for the AI to generate answers from. The second chatbot, so far, is a general-purpose chatbot, and the benefit to using FreeStream is that there's no chat-length limits and you can "drop-in" your choice of large language model from foundational model providers OpenAI, Anthropic, and Google. 
+### [Build-RAGAI](https://github.com/daethyra/build-ragai)
+**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples. 
 
-### Build-RAGAI
-Description: A collection of Jupyter Notebooks and Python components to leverage LangChain, OpenAI, and Transformers for building generative AI applications, providing reusable code snippets, tutorials, and end-to-end examples. 
+### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
+**Description**: A cybersecurity resource library of knowledge documents, a curated list of offensive and defensive cybersecurity tools, and some personal automation scripts. I also keep all of my web-application-payload notes [in one place](https://github.com/Daethyra/Cybersecurity-References/tree/main/Web-Applications).
+
+### [FreeStream](https://github.com/daethyra/freestream/)
+**Description**: A Streamlit application of chatbots for varying purposes. The first example is focused on retrieval augmented generation and requires you to upload files for the AI to generate answers from. The second chatbot, so far, is a programming assistant. Plus, you can "drop-in" your choice of large language model from model providers like OpenAI and Anthropic. 
 
 ---
 
