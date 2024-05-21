@@ -18,10 +18,10 @@
 
 ## A bit about me...
 - 🏳️‍⚧️ Pronouns: she/her
-- 🔭 I’m currently working on *trans*itioning from cybersecurity and into software development.
-- 🌱 I’m currently building _FreeStream_, a Streamlit Multi-Page App with various Chatbots for many use-cases.
+- 🔭 I’m currently working on a Streamlit app to track myself and visualize a heatmap of my habits!
+- 🌱 I’m currently studying to pass the CompTIA Security+ exam.
 - 👯 I love collaborating on open-source projects with a vision to make peoples' lives better.
-- 🤔 More specifically, **I want to build cool stuff for others that automates the mundane.**
+- 🤔 More specifically, I want to build cool stuff for others that automates the mundane.
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
 
