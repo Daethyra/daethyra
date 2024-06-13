@@ -18,9 +18,9 @@
 
 ## A bit about me...
 - 🏳️‍⚧️ Pronouns: she/her
-- 🔭 I’m currently working on a Streamlit app to track myself and visualize a heatmap of my habits!
-- 🌱 I’m currently studying to pass the CompTIA Security+ exam.
-- 👯 I love collaborating on open-source projects with a vision to make peoples' lives better.
+- 🔭 I’m currently working on a Docker-based hacking lab with DVWA and Splunk!
+- 🌱 I recently passed CompTIA Security+ exam!
+- 👯 I love collaborating on open-source projects with a clear vision to make peoples' lives better.
 - 🤔 More specifically, I want to build cool stuff for others that automates the mundane.
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
@@ -54,11 +54,14 @@
 
 ## Favorite Projects
 
-### [Build-RAGAI](https://github.com/daethyra/build-ragai)
-**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples. 
+### [Splunk-DVWA](https://github.com/daethyra/Splunk-DVWA)
+**Description**: A Docker-based virtual lab for cybersecurity training, focused on configuring a Splunk Indexer and Damn Vulnerable Web App (DVWA) with a Splunk Forwarder. The setup provides an easily redployable environment ideal for aspiring penetration testers and incident responders.
 
 ### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
 **Description**: A cybersecurity resource library of knowledge documents, a curated list of offensive and defensive cybersecurity tools, and some personal automation scripts. I also keep all of my web-application-payload notes [in one place](https://github.com/Daethyra/Cybersecurity-References/tree/main/Web-Applications).
+
+### [Build-RAGAI](https://github.com/daethyra/build-ragai)
+**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples. 
 
 ### [FreeStream](https://github.com/daethyra/freestream/)
 **Description**: A Streamlit application of chatbots for varying purposes. The first example is focused on retrieval augmented generation and requires you to upload files for the AI to generate answers from. The second chatbot, so far, is a programming assistant. Plus, you can "drop-in" your choice of large language model from model providers like OpenAI and Anthropic. 
