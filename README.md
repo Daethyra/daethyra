@@ -51,9 +51,6 @@
 
 ## Favorite Projects
 
-### [Splunk-DVWA](https://github.com/daethyra/Splunk-DVWA)
-**Description**: A Docker-based virtual lab for cybersecurity training, focused on configuring a Splunk Indexer and Damn Vulnerable Web App (DVWA) with a Splunk Forwarder. The setup provides an easily redployable environment ideal for aspiring penetration testers and incident responders.
-
 ### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
 **Description**: A cybersecurity resource library of knowledge documents, a curated list of offensive and defensive cybersecurity tools, and some personal automation scripts. I also keep all of my web-application-payload notes [in one place](https://github.com/Daethyra/Cybersecurity-References/tree/main/Web-Applications).
 
