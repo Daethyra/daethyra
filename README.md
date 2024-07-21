@@ -18,10 +18,10 @@
 
 ## A bit about me...
 - 🏳️‍⚧️ Pronouns: she/her
-- 🔭 I’m currently working on a Docker-based hacking lab with DVWA and Splunk!
+- 🔭 I’m a pentester and cybersecurity analyst! 
 - 🌱 I recently passed CompTIA Security+ exam!
-- 👯 I love collaborating on open-source projects with a clear vision to make peoples' lives better.
-- 🤔 More specifically, I want to build cool stuff for others that automates the mundane.
+- 👯 I love collaborating on open-source projects with a clear vision.
+- 🤔 I like building tools and projects with Python.
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
 
