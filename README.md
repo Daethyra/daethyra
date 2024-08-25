@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Daethyra (pronounced: deh-thear-uh)
+  Hi there 👋 I'm Daethyra (pronounced: duh-theer-uh)
 </h1>
 
 <p align="center">
@@ -17,13 +17,13 @@
 -->
 
 ## A bit about me...
-- 🏳️‍⚧️ Pronouns: she/her
 - 🔭 I’m a pentester and cybersecurity analyst! 
-- 🌱 I recently passed CompTIA Security+ exam!
-- 👯 I love collaborating on open-source projects with a clear vision.
-- 🤔 I like building tools and projects with Python.
+- 🐍 Python is my favorite programming language (I don't understand memory allocation)!
+- 👯 I love contributing to open-source freeware projects with a clear vision.
+- 🤔 I'm pretty sure there's no ethical consumption under capitalism, but we gotta live somehow.
 - 💬 Ask me about my favorite video game, or which games I'm playing recently.
 - ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
+- 🫱🏼‍🫲🏻 Love it when people contribute to my projects, and hope they're helpful to someone.
 
 ## Tech Stack
 
@@ -54,11 +54,11 @@
 ### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
 **Description**: A cybersecurity resource library of knowledge documents, a curated list of offensive and defensive cybersecurity tools, and some personal automation scripts. I also keep all of my web-application-payload notes [in one place](https://github.com/Daethyra/Cybersecurity-References/tree/main/Web-Applications).
 
-### [Build-RAGAI](https://github.com/daethyra/build-ragai)
-**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples. 
-
 ### [FreeStream](https://github.com/daethyra/freestream/)
 **Description**: A Streamlit application of chatbots for varying purposes. The first example is focused on retrieval augmented generation and requires you to upload files for the AI to generate answers from. The second chatbot, so far, is a programming assistant. Plus, you can "drop-in" your choice of large language model from model providers like OpenAI and Anthropic. 
+
+### [Build-RAGAI](https://github.com/daethyra/build-ragai)
+**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples. 
 
 ---
 
