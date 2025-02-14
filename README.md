@@ -2,27 +2,28 @@
   Hi there 👋 I'm Daethyra (duh-theer-uh)
 </h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=1278&size=26&lines=Sup,+Cyberjunk;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;嘿%EF%BC%8C赛博朋克！;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;FOSS+is+GOATED;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;FOSS是永远的神;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;D'you+take+the+red+or+the+blue+pill%3F;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;你选红色药丸还是蓝色药丸%EF%BC%9F;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;You+like+jazz%3F+( ͡°+͜ʖ+͡°);.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;你喜欢爵士乐吗%EF%BC%9F+( ͡°+͜ʖ+͡°);.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;The+Devil+works+hard+but+fascists+work+harder;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;魔鬼勤勤恳恳%EF%BC%8C但法西斯更加拼命;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;Reclaim+Soul;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;夺回灵魂;.+.+.+.+.+.+.+.+" />
-  </a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=1278&size=26&lines=Reclaim+Soul;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;夺回灵魂;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+" />
+    </a>
+  </p>
+</div>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=10000&size=14&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=1000&size=14&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." />
   </a>
 </p>
 
 
 ## A bit about me...
-- 🔭 I’m a pentester and cybersecurity analyst! 
-- 🐍 Python is my favorite programming language (I don't understand memory allocation)!
-- 👯 I love contributing to open-source projects!
-- 🤔 I'm pretty sure there's no ethical consumption under capitalism, but we gotta live somehow.
+- 🔭 I’m a pentester and cybersecurity analyst
+- 🐍 I like Python
+- 🤔 No ethical consumption under capitalism
 - 🎮 I 100%'d Cyberpunk 2077 & Helldivers 2. Been playing through Mass Effect: Andromeda.
-- ⚡ Fun fact: I love Star Wars! Guess my favorite trilogy.
+- ⚡ I love Star Wars! Guess my favorite trilogy.
 
 ## Tech Stack
 
@@ -48,19 +49,10 @@
 
 ---
 
-## Favorite Projects
+## Favorite Project
 
 ### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
 **Description**: A curated cybersecurity knowledge base containing regulatory frameworks (NIST, HIPAA), offensive security resources, practical automation tools, and continuous learning materials. Features web application vulnerability documentation, penetration testing guides, and threat intelligence scripts[.](https://daethyra.github.io/Cybersecurity-References/)
-
-### [FreeStream](https://github.com/daethyra/freestream/)
-**Description**: A modular chatbot interface built with Streamlit and LangChain that enables custom AI conversations with support for multiple LLM providers (DeepSeek, GPT-o1, Claude). Features retrieval-augmented generation capabilities, LangSmith conversation tracing, and seamless deployment to Streamlit Cloud.
-
-### [Build-RAGAI](https://github.com/daethyra/build-ragai)
-**Description**: An educational resource and toolkit of Jupyter Notebooks and Python components to leverage LangChain for building generative AI applications. It teaches the implementation of LangChain for chatbots with various capabilities, including retrieval augmented generation. The standalone components may replicate or extend the functionality taught in the notebooks, while there are also general-purpose modules I personally found useful. providing reusable code snippets, tutorials, and end-to-end examples.
-
-### [Image-Converter](https://github.com/Daethyra/Image-Converter)
-**Description**: A Python CLI tool for batch image conversion between JPG/PNG/BMP/WebP formats using Pillow. Provides simple command-line processing with duplicate prevention and directory handling capabilities. Requires local installation from source.
 
 ---
 
