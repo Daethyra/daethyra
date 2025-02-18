@@ -49,11 +49,4 @@
 
 ---
 
-## Favorite Project
-
-### [Cybersecurity References](https://github.com/Daethyra/Cybersecurity-References)
-**Description**: A curated cybersecurity knowledge base containing regulatory frameworks (NIST, HIPAA), offensive security resources, practical automation tools, and continuous learning materials. Features web application vulnerability documentation, penetration testing guides, and threat intelligence scripts[.](https://daethyra.github.io/Cybersecurity-References/)
-
----
-
 [![Daethyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=daethyra&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daethyra&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
