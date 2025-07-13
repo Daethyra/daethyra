@@ -5,7 +5,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=1278&size=26&lines=Reclaim+Soul;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;夺回灵魂;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+" />
+      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=12780&size=26&lines=Reclaim+Soul;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+" />
     </a>
   </p>
 </div>
@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=1000&size=14&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&duration=30000&size=14&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." />
   </a>
 </p>
 
 
 ## A bit about me...
-- 🔭 I’m a pentester and cybersecurity analyst
+- 🔭 I’m interested cybersecurity
 - 🐍 I like Python
 - 🤔 No ethical consumption under capitalism
-- 🎮 I 100%'d Cyberpunk 2077 & Helldivers 2. Been playing through Mass Effect: Andromeda.
+- 🎮 I 100%'d Cyberpunk 2077 & Helldivers 2.
 - ⚡ I love Star Wars! Guess my favorite trilogy.
 
 ## Tech Stack
